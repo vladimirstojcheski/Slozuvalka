@@ -1,0 +1,15 @@
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\bin\Debug\Сложувалка.exe.config
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\bin\Debug\Сложувалка.exe
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\bin\Debug\Сложувалка.pdb
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\obj\Debug\Сложувалка.csprojAssemblyReference.cache
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\obj\Debug\Сложувалка.Properties.Resources.resources
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\obj\Debug\Сложувалка.csproj.GenerateResource.cache
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\obj\Debug\Сложувалка.exe
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\obj\Debug\Сложувалка.pdb
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\obj\Debug\Сложувалка.Form1.resources
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\obj\Debug\Сложувалка.gameOne.resources
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\obj\Debug\Сложувалка.MojBroj.resources
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\obj\Debug\Сложувалка.Spojki.resources
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\obj\Debug\Сложувалка.Skocko.resources
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\obj\Debug\Сложувалка.GameFive.resources
+C:\Users\Cicko\Desktop\Finki\6 семестар\Визуелно програмирање\Сложувалка\Сложувалка\Сложувалка\obj\Debug\Сложувалка.GameSix.resources
