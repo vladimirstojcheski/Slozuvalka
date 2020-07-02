@@ -147,6 +147,5 @@ private void setQuestionPosition()
 - [ ] Add more unique games
 - [ ] Add duel mode with 2 players
 - [ ] Add more questions to the database
-- [ ] Fix my life  
 
 ### Владимир Стојчески, 171248
